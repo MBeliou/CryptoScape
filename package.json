@@ -1,13 +1,13 @@
 {
-  "name": "ionic-vue-examples",
+  "name": "CryptoScape",
   "version": "0.0.1",
-  "description": "Examples of @ionic/vue usage",
-  "author": "Michael Tintiuc <michael.tintiuc@moduscreate.com>",
-  "user": "michaeltintiuc",
+  "description": "Simple example of Ionic + Vue, making a crypto app using the coin gecko api",
+  "author": "Maxime Bele <maxime.bele@gmail.com>",
+  "user": "MBeliou",
   "license": "MIT",
-  "repository": "github:ModusCreateOrg/ionic-vue-examples",
+  "repository": "",
   "bugs": {
-    "url": "https://github.com/ModusCreateOrg/ionic-vue-examples/issues"
+    "url": ""
   },
   "engines": {
     "node": ">= 8.0.0",
@@ -21,6 +21,7 @@
   "dependencies": {
     "@ionic/core": "^4.1.1",
     "@modus/ionic-vue": "^1.2.14",
+    "axios": "^0.18.0",
     "vue": "^2.5.16",
     "vue-router": "^3.0.1"
   },
